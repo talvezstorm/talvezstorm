@@ -1,0 +1,6 @@
+Git init: serve para criar um repositório novo.
+git add: coloca o arquivo no mapeamento do repositório
+git status: mostra se tem arquivos ou mudanças que ainda não faz parte na linha do tempo (commit)
+git commit -m: criar um nó na linha do tempo
+git config: serve pra adicionar um email local
+
